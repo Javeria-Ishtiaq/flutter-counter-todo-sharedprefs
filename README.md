@@ -11,10 +11,9 @@ It includes two tabs:
 - Save and retrieve data locally: `shared_preferences` for counter and to‑do list
 
 ## Screenshots
-- Counter screen: `screenshots/counter.png`
-- To‑Do screen: `screenshots/todo.png`
+![Counter](screenshots/counter.png)
 
-(Place screenshots under `screenshots/` and update paths as needed.)
+![To‑Do](screenshots/todo.png)
 
 ## Tech
 - Flutter (Material 3, light/dark)
