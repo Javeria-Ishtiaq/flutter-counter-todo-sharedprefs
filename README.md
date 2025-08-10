@@ -11,9 +11,11 @@ It includes two tabs:
 - Save and retrieve data locally: `shared_preferences` for counter and to‑do list
 
 ## Screenshots
-![Counter](screenshots/counter.png)
+![Counter](screenshots/counter.jpg)
 
-![To‑Do](screenshots/todo.png)
+![To‑Do](screenshots/todo.jpg)
+
+![Delete (swipe)](screenshots/delete.jpg)
 
 ## Tech
 - Flutter (Material 3, light/dark)
